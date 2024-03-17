@@ -9,6 +9,12 @@ body {
     color: pink;
     text-align: center;
   }
+  html {
+    background-image: url(backg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
   
   nav ul {
       list-style: none;
@@ -148,3 +154,4 @@ form {
     width: 100%;
     height: auto;
   }
+ 
