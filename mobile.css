@@ -24,6 +24,14 @@ body {
       display: flex;
       justify-content: space-around;
     }
+    main{
+      padding: 2rem;
+      margin: 3rem;
+      }
+      footer{
+          padding: 2rem;
+      margin: 3rem;
+      }
     
   
   
@@ -154,4 +162,12 @@ form {
     text-align: center;
     size-adjust: auto;
   }
-
+  main{
+    padding: 5rem;
+    margin: 7rem;
+    }
+    footer{
+        padding: 2rem;
+    margin: 0;
+    }
+ 
